@@ -1,4 +1,4 @@
-package com.ta.mobile.devices.windows.pages;
+package com.ta.mobile.devices.windows;
 
 import com.ta.mobile.devices.AbstractPage;
 
